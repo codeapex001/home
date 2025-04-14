@@ -1,0 +1,71 @@
+avtr_40f6bacd-793b-4c03-a454-b08577957da7,Chocolat
+avtr_76d760e0-e0b6-45d2-930c-dad1f48ac1ed,Yuzuki
+avtr_9314ad0d-efa2-4269-ab08-c2e29914d8b9,lulum
+avtr_00d56d44-fb17-4a4a-9f75-71661103f494,Karin
+avtr_b3d5def2-319f-4345-bd5d-d177640af232,偶像练习生卡琳
+avtr_c51acc2a-cc65-410d-847b-a9cd01117827,小卡琳
+avtr_ac88a259-8b20-4c4c-9bb7-cc992770a5e3,karin
+avtr_4a8da824-987d-4ba3-bf6e-17616b197a76,Karin 2
+avtr_0efdcc65-dda7-460a-9d1c-c4ff79e9aad7,Karin
+avtr_3b5a4b9a-2114-4108-a41f-db7939c1ba4f,あまなつ 甘夏
+avtr_1c2b49b5-94b4-4b4d-a0ff-929679444b16,Lime
+avtr_dd0b0b82-edbf-49c7-b676-9f2c8b13685c,Cyber Karin
+avtr_0f701af8-16ec-47f4-8566-e765336eb83e,Milk
+avtr_ddf0742c-bfe9-4636-978f-1ba65106ce22,Chiffon
+avtr_32f4a673-38be-4f76-b954-f5d415fdd11d,Chiya
+avtr_079091e8-cc0c-4fad-8018-f1bf73238905,Lime 2
+avtr_1f61bda6-6542-4e1c-b935-a4e09c096456,Rusk
+avtr_7902e8b1-5512-4c0b-bbf0-9fa578e21c35,Airi
+avtr_b2b67fc8-7290-451f-bb2e-44022eec0bc1,Maya,
+avtr_28e9257b-de8d-4e1e-af21-b99524de0f04,Runya_RibbonKnit
+avtr_f5f56a89-002f-4431-9883-9418dbee1707,Runya_NyanpuKasou
+avtr_30877eb4-a6bb-4165-86cd-99093e6fea8e,Gizmo
+avtr_26dc28de-7b87-4e78-85fa-21c5d6ec3b18,Morpho
+avtr_9ddee3ff-a80b-4387-83d3-524eb20a159c,疾旋鼬 Chillet
+avtr_b797a57b-ce78-425b-8039-8decab581c9e,SELESTIA
+avtr_20d7e737-1a2a-4469-b9f1-367c05fc8d0c,SkyDragon
+avtr_8b484861-bb18-4a0b-948a-a3f4c959819c,mizuki
+avtr_38f3ad5b-17e3-43e5-b26c-8cc99e9b34b7,MANUKA
+avtr_411e0cbc-0120-4c70-9f20-53442b95201c,Rushka
+avtr_548f9ad7-bc9f-4391-96f3-ad73f1602f9d,dd
+avtr_0900c21a-67a7-4d39-8b7b-38348b5488da,月下
+avtr_5e52b23c-73f5-4eae-9085-5a3c53917fb1,Anomea
+avtr_b324696b-0993-4db9-ba99-9434e070ea1e,小萌
+avtr_b14f25d3-eaec-43b8-9f0c-3dc112c997ba,生駒ミル
+avtr_2d6edff1-db55-491a-8616-c3f6ddf2128e,绮良良
+avtr_0f0ac51c-7bac-476e-866b-e87e35b6b072,Flare
+avtr_be052cfd-49c6-4216-bd36-4e9b1f04f2ca,BIG KARIN
+avtr_6df648fc-d4ce-405a-8b7f-9fc944a019f9,KOSAME
+avtr_f46b0e48-8480-4368-a3b4-05d4d4b6551e,Moe
+avtr_1f5c60f4-4e4a-45e8-958b-af38c889bd7a,Moe Drop Dead
+avtr_c9bdb160-6c11-470f-9547-d70d7e52a43b,Rufina
+avtr_34dc847f-11fe-4555-add8-9d405ad68536,Homura
+avtr_df5915b8-a954-45aa-9756-d3b22b316c16,Fiona
+avtr_51687dbc-8931-439d-9985-6ec729b5ca67,Meiyun
+avtr_685ad716-4650-4189-91b1-d89a295be6ca,rusk good
+avtr_dbf48573-310a-4ead-8826-f77fa9375fdc,我不是默神
+avtr_b67d46b1-44d6-40a1-b420-e4d00a6df66f,RINDO 龙胆
+avtr_6809e1da-9028-4c48-afdf-2b0ef64633d6,Kikyo
+avtr_5aec62f1-a1c0-4553-99db-11312df9a79d,Peko
+avtr_10332b1f-c88f-41fd-8385-c7da4455dc76,Bird
+avtr_0345e7bd-e984-4e5e-b58d-07a20e52820b,Kaya
+avtr_65926fc7-5ed0-4103-9a4d-190cedc8643c,loli-kekero
+avtr_f4388133-b50f-48e3-9dd3-55d41a222704,月下
+avtr_1709047e-0286-46b5-ab65-8cf86d674eb3,凯露 キャル
+avtr_969b9ec0-1dd3-4817-9d80-cc336960117d,可可罗 コッコロ
+avtr_9b32f374-c167-4d8c-bc4f-a03903a14b4a,INABA
+avtr_4e4190a4-f91b-4758-9b36-4dd305762d9e,Tumugi
+avtr_02ec5a34-1659-4cfd-ba07-29abe64937a3,Rumi
+avtr_1090273e-b643-4a0e-861c-97ba71f771a4,loli-SELESTIA
+avtr_0761f83f-e40a-4516-9a45-876e2bfd0471,Tutorial_Robot
+avtr_a503cea8-9464-41f2-8418-934a3526c076,revenant
+avtr_fe94f36e-7e37-436c-8a86-10dd65c27f2d,Miku
+avtr_f4000945-94be-43e3-8db0-a7b390772fa6,tuner
+avtr_5f35582f-16a8-4fcb-b832-39f244c358dc,Sophina
+avtr_25ad86a2-dae5-42f8-9434-aadf2e8af636,rumi0.4
+avtr_dc112dad-ee9a-4e6b-bc49-5cea95ccc74b,Aira
+avtr_f4ff4c46-b6e3-477a-a428-6148190d4c15,non
+avtr_c3ba7fcd-225c-44d7-9824-711153190ef0,Tien
+avtr_13a408bc-7882-4963-a5f9-c37790161a85,小天城
+avtr_40df5080-660f-4a03-a745-3879db17c69b,Ayanami
+avtr_78b56efa-7736-49c0-93c2-2abad54f31c6,恶毒
