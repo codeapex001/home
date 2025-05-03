@@ -202,7 +202,6 @@ avtr_1abc6b37-558c-4a24-aa4b-247224a6ed3b,萝莉吃饭,uriimoto
 avtr_948ff865-9ff6-4a10-bebb-10401c13ee42,chicken - - -hen bird farm,Hens
 avtr_99b73d20-a282-4a2d-a5c3-ee476e799fb4,金发碧眼Milk,朦胧の彼岸
 avtr_b37a0db2-2993-4396-a2f4-4b976e53c3f8,Yatoro雨,鹿鳴见山
-avtr_33ffe562-98fe-49d1-97df-97d5251f9024,HMoe-Blue - v1․0,ฅ夏洛洛ฅ
 avtr_c5fdceb2-5f0b-433c-80b9-23d05b62d154,ciel_sample,れぴの！
 avtr_2003320f-9db3-4fd6-8dea-9936ce1fca40,九尾の傍観者 sample,KOTOBUKIYA_avt
 avtr_8d538dcd-e033-458f-b5b3-d944ed353033,Shinano_sample,pondero
