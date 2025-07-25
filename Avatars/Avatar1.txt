@@ -281,7 +281,6 @@ avtr_8d009ec8-1540-4709-98bd-3a24b3f8982f,lime E,axuetu
 avtr_20ddd807-ff37-4c1e-8310-fdbacc64cb49,KArinAtr1 Ver8․7,Atr1st
 avtr_c7bc89ba-d96c-493b-8af4-a6e1884bac21,高价回收-梦的秋叶,梦的秋叶
 avtr_96758085-3686-43f3-9fe0-931c923d555e,R․E․P․O ROBOT,POINTLΕSS
-avtr_ebf7dd32-c94c-46fd-b644-3c732409c3e8,aaaaaaaaaaaaa,阿希德2333
 avtr_ea6a3b48-01a6-4f07-8b32-a4de4a58277b,Doro,Cloaked Schemer
 avtr_9e93b600-e635-4e13-a658-4b57bd78cc65,iDoro,iSadara
 avtr_e2f57956-8cbd-4b9c-abc4-0a2939ee9d80,Hapster,Нaperman
