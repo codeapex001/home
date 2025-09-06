@@ -2,8 +2,6 @@ avtr_d24fce7e-2c73-490b-a4e8-29196395d569,小春,MadokaLove1027
 avtr_540bae39-d59a-41ed-bd8e-8149a17c709e,MahiroKarin,GANŦΘṨAN
 avtr_575f2ed1-c618-4afb-b1fc-998cd8201b5c,咕噜Karin,咕噜咕噜咕噜
 avtr_b1e56e09-21ab-496f-89b5-140117e9b9fa,MAYA 面捕 FACE TRACKING,F1euret
-avtr_2203b2e2-e130-4b04-bde0-4ae3d2d14aa5,小四的maya老婆,朦胧の彼岸
-avtr_0ab58047-3e47-41e7-9038-4fda825ff984,Triloli,Kinimara
 avtr_c38a1615-5bf5-42b4-84eb-a8b6c37cbd11,Robot,vrchat
 avtr_01f73c40-fffd-4148-897d-a241657c9dbb,只因,御坂美琴․
 avtr_04aac09c-d94c-45e2-8270-7314a25d9826,荒野之息 Link_Gewehr41,Gewehr 41
@@ -97,8 +95,6 @@ avtr_2522665a-44e1-45a3-992e-585959bcf47e,nekoAiri-FT,Lily Angelica
 avtr_16106000-34ea-470b-aa22-fbca9e5ad013,Manuka Gothic （vrcft）,Gr1zzLy_OwO
 avtr_04f91e02-a294-4732-8bb7-b212a839a329,MANUKA 晚安，大小姐,-ɢᴏsɪᴄᴋ-
 avtr_85d58aeb-fe43-47a1-9a96-464558a61823,Manuka Miku ＜＞＜,The Great Μiku
-avtr_33151eb6-396b-49e1-9043-a352560cac7d,little ciel,鹿目圆天（Madoka）
-avtr_af817ece-ed42-4957-ab9c-b17d42acc325,little maya,鹿目圆天（Madoka）
 avtr_86de9b0c-596e-4783-9f77-d480757f770c,七彩九尾狐 Public No R18,PiPiGuaiNB
 avtr_feb9aa95-90dd-4a7b-8a62-a9c5e04dc033,水晶龙胆_面捕已添加 ｜ CrystalRindo_ Face Tracking,YoukiNya
 avtr_54b91795-e7d3-494a-a7b7-8fb4e65e90c8,哥 谭 噩 梦 - 白鸟,禁忌apostle
@@ -106,7 +102,6 @@ avtr_fa0239e8-c042-4300-a3be-cfc96557a3c5,Goose,Graelyth
 avtr_695ae68f-d57d-49c9-a142-1353f8a74b2a,黑神话 天命人 Feilong WuKong,Gewehr 41
 avtr_a565ebe7-a735-4906-9960-8c83a371bce4,Sailor girl_public,아크네르アクネル
 avtr_8039d912-0eff-4142-b253-d0866cfbb076,Runya․unitypackage,伊爱克斯
-avtr_1abc6b37-558c-4a24-aa4b-247224a6ed3b,萝莉吃饭,uriimoto
 avtr_948ff865-9ff6-4a10-bebb-10401c13ee42,chicken - - -hen bird farm,Hens
 avtr_b37a0db2-2993-4396-a2f4-4b976e53c3f8,Yatoro雨,鹿鳴见山
 avtr_c5fdceb2-5f0b-433c-80b9-23d05b62d154,ciel_sample,れぴの！
@@ -174,7 +169,6 @@ avtr_e0603960-a091-460e-bb72-06961dd9fa15,Platinum_lolipop,Arisaka_Mito
 avtr_aae32bf8-ae87-4231-830d-16d354e6dc6d,Platinum,川井 リカ
 avtr_68f81563-6b2c-4b0e-9187-a75ad6c06c76,タフィー 1883,東雪蓮Official
 avtr_9a984a53-e065-4b79-b372-9446afcb65e3,女仆奶龙,通商宽衣
-avtr_1dcc479e-e8bc-482f-a954-3ccf362f139c,robinabi edating on vrc,ef slur
 avtr_35cdbb2e-73fc-4df9-a968-df10aaa75f3b,汉尼拔,手持长剑的影月
 avtr_03a5ff4d-5dde-44e6-9d00-b06bc9c26594,タフィー アイドル,東雪蓮Official
 avtr_8079c287-147e-42ee-9751-52c9181e9bcd,オリジナル タフィー,東雪蓮Official
@@ -234,7 +228,6 @@ avtr_ea6a3b48-01a6-4f07-8b32-a4de4a58277b,Doro,Cloaked Schemer
 avtr_9e93b600-e635-4e13-a658-4b57bd78cc65,iDoro,iSadara
 avtr_e2f57956-8cbd-4b9c-abc4-0a2939ee9d80,Hapster,Нaperman
 avtr_03c8565a-dc31-4d35-bb70-1ca8671e2c38,VRCat Hoverkitty （DESKTOP） ［3․0］ （SylviaCrisp's Hoverkitty Avatar）,SylviaCrisp
-avtr_398d4c16-d301-4f7e-8eee-bf9dfd0c648c,雪凝魅魔小屋特供版,GA50
 avtr_5fb6c127-ab52-4292-9e44-89c2ef6d35ed,Ciel,小松Komatsu
 avtr_aa7f4d02-d875-4765-804a-a238b7e960af,ShinanoDream,哒哒哒 哒哒哒
 avtr_26e71b2d-6923-49d6-9062-af8509a1b4e7,Manuka-PCSS-18Plus,A208TA_OTTO
@@ -242,17 +235,14 @@ avtr_d0677340-f025-4768-a691-a6d997b17ed4,小白玉（S）,小猫ั腻
 avtr_d013bb31-5524-4f8f-a02f-01ca26eb38c9,猫猫 1․6精选同步舞蹈,MingShi_
 avtr_813a5983-fe74-402e-89b4-60e0c7bc7264,HuoHuo,Destiny Klein
 avtr_e5d3bf27-862d-4528-8e4a-45f91374cd50,Milltina（sample）,DOLOS
-avtr_844522a1-66fb-41e6-9feb-ea23ac9f5cd0,露露姆,wzken
 avtr_2c325ae9-df08-4e74-83d2-4439eef765ab,Maya-Remilia,baibaic
 avtr_b7f20de0-ccc7-4f2f-b9f0-a9d0b7181ab9,perapera_avatars,chemistry221
 avtr_762f71db-6788-447b-8888-a86fe0a76ee3,Meiyun~Ya,熊貓秋-Aki
 avtr_33edd629-c793-4592-81a8-9a80c7b9d4af,［MiSide］ Mita VRCFT,ndemi
 avtr_2611ea18-3aee-487c-a59f-ecdc9dd21330,doro_4,LIN_BEIBEI
-avtr_34384dff-0fde-459a-9ae9-ff8920fb43c4,Milfy,rainkoo
 avtr_28ad98aa-e057-426e-90e0-23b29874b317,tung tung tung tung sahur,Tukard
 avtr_445b705e-7278-41f5-8dff-d13808bb6382,TUNG TUNG SAHUR,YellowDemonYu
 avtr_d89c8846-0878-40c4-97ca-bc9342c57773,东北雨姐,通商宽衣
-avtr_c0e4ad48-6086-4bdb-a6ad-d18ecea43870,白,123xxx95
 avtr_8963b8ef-9414-4ac3-a46d-0a77d5050a08,Fisherman Kon,Ðismay
 avtr_e75fc741-810d-48f6-b7bd-25e331244f84,超绝男模,KawasaOvO
 avtr_df7433b3-0fef-41e5-befb-e8a3865dfa4d,别尬黑真绿模,工具人浊鸷
@@ -274,5 +264,9 @@ avtr_d231be87-233c-45f9-b518-3031731f7cd8,11,butterfly·
 avtr_5c4d8eca-e5fe-465d-8215-c043de77ecf6,魔法少女西柚,夕波Yunami
 avtr_20854184-ffc5-42ef-ac5b-71a7d3d8b36c,Xiao - Remastered,Big Soulja
 avtr_1b4a9f2b-8982-4416-ae10-af7bafec4095,public speaker,SparkyDecay
-avtr_90d5d9cb-e84d-4dfe-9d59-6dac93672c64,我的猫娘,我有伊吕波本子
 avtr_0baa06e2-4457-479d-9973-e071aaec8a20,白洲 梓,机巧奶桃不学喵叫
+avtr_e98cc94b-cb07-4f97-91ec-5ed31496670a,HMoe,LuvTofuu
+avtr_b7aea11e-7382-4472-ba29-065121eb7dd1,艾露猫,Neyko_
+avtr_fac14839-87ab-41a7-ba98-e3746602ab30,MANUKA_2,兔兔这么可爱
+avtr_6ba0232b-b870-4b69-8749-d60516953b89,MANUKA_哥特,兔兔这么可爱
+avtr_7c32d323-3216-46fe-9998-fcafd91796bc,bocchi,CCYellowStar
