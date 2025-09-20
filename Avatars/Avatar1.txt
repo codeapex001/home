@@ -12,7 +12,6 @@ avtr_c060dc6c-9cf1-4a9c-9263-4e7162c160a0,大姐姐moe,ᴡʜᴀʟᴇღ
 avtr_253d1790-27fb-421e-ba0f-4d21055d6bc9,Monarch's Priestess Robin,TheMonarᴄh
 avtr_34f5d7b3-6095-4d10-8cb2-8ad3552bee5a,魔法女佣,宇宙第一咸鱼
 avtr_fbe34d75-6cb8-4d9e-a4f1-93ddbdea78f2,Gothic Lolita Shinano,Wisteria~
-avtr_5da195c1-60dc-4574-aa22-5fc6282845a6,面捕,-Skad1-
 avtr_17630088-cb8e-4060-9a9c-08cc2d1a259e,akyofel,葱 potipoti93
 avtr_3f569570-9a19-4fed-b269-38ee69d5cde4,MamehinatAkyo,葱 potipoti93
 avtr_0668842c-763b-4eaf-a6f1-b44d65d85d51,嘉然kon,秦始皇派蒙麻了
@@ -22,7 +21,6 @@ avtr_7624151c-aed6-48a9-8b78-396a68cac099,Cirno,BanishRuse
 avtr_6c53e975-0567-4ba3-a5f6-481f388e3aee,ShibaInu,Muzzyi
 avtr_32539a1b-660c-45dd-a816-d4c3db603f31,Kowalski,BrainRotts
 avtr_3a0a69ce-1332-4eb2-948c-8ed7518acb03,Galactic Bird,Singing Bird
-avtr_5848b660-df4f-4375-83c9-efd0e1c98765,root:~/etc/Karin_FireDigger,i'm not sleepy
 avtr_a7304063-6f2d-43ef-bfca-406ab3c4e7de,SakaNET_V1.1.0,米夏Misha
 avtr_b6bc30bf-bfdc-4045-8b1d-3efc8437dba5,Maya 2d,七つの大罪
 avtr_d1d96825-4f94-4ece-9776-4b0beb42c8be,airi_daily_ver1.3.0-erp,_catlee
@@ -33,7 +31,6 @@ avtr_26187637-0c30-4a09-86e1-bc928c07309e,VRRat,Creator Support
 avtr_2920b2b1-dd0f-4294-836f-e6aa98dfe571,熊二,御坂美琴․
 avtr_1c45930a-2a3d-4eaf-b9af-38ef78ed251a,熊大,御坂美琴․
 avtr_ae7ede3d-01e1-4a4b-b9da-1a1160b6ad8c,Little Blackbird,hiddencateyes
-avtr_4b6b5a22-7e55-4fad-97c1-ede0123b6b67,Viorin,香蕉猫paulxstx
 avtr_9737a99e-c9a4-491c-96b8-09e4cb66b491,cuteeepie,斯卡蒂和希儿的狗
 avtr_19fff4c2-9a1d-4a4c-818e-abf26b17d33b,Rabbit Hole Miku,SnivyFC
 avtr_db4d96af-04fe-4dc8-bdaf-11b9619610c5,小猪的卡琳,NBY10032
@@ -150,7 +147,6 @@ avtr_a135678d-87b6-4960-b26a-dbdbe5ba8df9,浮梦若薇2.0,ぃLuxRIAぅ
 avtr_fac14839-87ab-41a7-ba98-e3746602ab30,MANUKA_2,兔兔这么可爱
 avtr_6ba0232b-b870-4b69-8749-d60516953b89,MANUKA_哥特,兔兔这么可爱
 avtr_de074be6-cfc3-44ad-9e80-349fb0373004,Pudding Maya,Kriszazzy
-avtr_d24fce7e-2c73-490b-a4e8-29196395d569,小春,MadokaLove1027
 avtr_540bae39-d59a-41ed-bd8e-8149a17c709e,MahiroKarin,GANŦΘṨAN
 avtr_fc0ef9c1-61a4-4022-a9c5-e62db1c90726,NachoNeko,arcxingye
 avtr_e0fff5b2-eb8f-44e3-9f3d-e18e3ef952c0,Flandre [Miy],Ebіsu․
@@ -188,7 +184,6 @@ avtr_8ca29d0d-2a99-4483-a8ec-cd6dd0e01f01,Iris MMD,MaoDMi
 avtr_82bdaafd-1999-4ef7-bf16-1489a69798ef,Venti (Abyss),TrashStars
 avtr_38cfa6cb-5fd7-4350-b261-a43c7a596ca6,Pingu,Ezekiel
 avtr_367a1b26-b4f8-485f-b037-4ec39b9a750e,Qf2QTN0s3ZhxmZ,竹子菌official
-avtr_1584f7bf-327b-4509-984b-39932553b6ff,Kanna,Dranael
 avtr_41239ccf-ad68-409e-b13d-f71e5ea1502d,Boy kisser 2d,Pika1up
 avtr_749445a8-d9bf-4d48-b077-d18b776f66f7,Utility Loading Simple,Rocktopus
 avtr_17df5426-5d4b-433e-8b86-41e38966937c,日服第一男枪,御坂美琴․
