@@ -1,3 +1,8 @@
+avtr_8dd2b2ed-9b3c-453a-8d02-9bfcea7e5832,东奶雪龙,美波373
+avtr_83b55b52-9e92-4f37-a0d0-7b683b130a83,稻荷神Holo,羊肉白菜_610
+avtr_851ce4c4-fc22-4811-b457-cb8ab8dc6a25,唐氏奶龙,通商宽衣
+avtr_528f5e05-79f9-4fb7-819c-ae95ad96f7e7,FroggyCar_JHP,Hau_21
+avtr_b45c1819-238f-41c8-83e2-317f61901f6e,春晚机器人,KAZE152
 avtr_c36923ce-48fc-4bc1-ac2d-edd7df2c0223,Robin,Ϲyrene
 avtr_0bfbdf92-10e9-4d0d-836b-2809c068b803,0KB,xiaqingtian
 avtr_9a11414a-715a-4478-93a8-cb52879960c7,doro,༒დ伊織眠დ༒
@@ -23,7 +28,6 @@ avtr_32539a1b-660c-45dd-a816-d4c3db603f31,Kowalski,BrainRotts
 avtr_3a0a69ce-1332-4eb2-948c-8ed7518acb03,Galactic Bird,Singing Bird
 avtr_a7304063-6f2d-43ef-bfca-406ab3c4e7de,SakaNET_V1.1.0,米夏Misha
 avtr_b6bc30bf-bfdc-4045-8b1d-3efc8437dba5,Maya 2d,七つの大罪
-avtr_d1d96825-4f94-4ece-9776-4b0beb42c8be,airi_daily_ver1.3.0-erp,_catlee
 avtr_449cf928-3db4-415e-a6bd-ccf014dfbcfa,Killian [FIRST DAY UNBANNED],deadsleep
 avtr_14fdc5fb-e9a3-4fb2-b057-f5d39a9460bc,お前をハイドする,ふじサンダ－
 avtr_84d03330-c37e-4cdc-9848-d464dfc3aba2,KingMonke,nefrumos
@@ -205,7 +209,6 @@ avtr_16106000-34ea-470b-aa22-fbca9e5ad013,Manuka Gothic (vrcft),Gr1zzLy_OwO
 avtr_223b1c1d-f173-4d68-a67e-f35b0eac2048,Reinforced Cameraman,JayWhiteHawk2
 avtr_c8104000-27c6-4908-853a-d24960b4039d,兽兽3.4.7,房东的猫
 avtr_dae3104d-c9bb-45fd-b290-b45e2bfc5550,樱雪,ぃLuxRIAぅ
-avtr_ca447bf4-d051-4a0e-a755-7bb6b6271fce,kll,牛奶Kira
 avtr_b37a0db2-2993-4396-a2f4-4b976e53c3f8,Yatoro雨,鹿鳴见山
 avtr_948ff865-9ff6-4a10-bebb-10401c13ee42,chicken - - -hen bird farm,Hens
 avtr_b1e56e09-21ab-496f-89b5-140117e9b9fa,MAYA 面捕 FACE TRACKING,F1euret
