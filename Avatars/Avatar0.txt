@@ -29,7 +29,6 @@ avtr_df5915b8-a954-45aa-9756-d3b22b316c16,Fiona,laomo
 avtr_51687dbc-8931-439d-9985-6ec729b5ca67,Meiyun,laomo
 avtr_dbf48573-310a-4ead-8826-f77fa9375fdc,我不是默神,laomo
 avtr_b67d46b1-44d6-40a1-b420-e4d00a6df66f,RINDO 龙胆,laomo
-avtr_6809e1da-9028-4c48-afdf-2b0ef64633d6,Kikyo,laomo
 avtr_5aec62f1-a1c0-4553-99db-11312df9a79d,Peko,laomo
 avtr_10332b1f-c88f-41fd-8385-c7da4455dc76,Bird,laomo
 avtr_0345e7bd-e984-4e5e-b58d-07a20e52820b,Kaya,laomo
